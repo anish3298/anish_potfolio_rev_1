@@ -12,3 +12,5 @@ yarn-error.log*
 *.local
 coverage
 .vercel
+.env
+.env.example
