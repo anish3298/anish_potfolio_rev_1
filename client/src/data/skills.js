@@ -1,7 +1,8 @@
 const skills = {
-  frontend: ['HTML', 'CSS', 'JavaScript', 'React.js'],
-  backend: ['Node.js', 'PHP', 'Python', 'Express.js'],
+  frontend: ['HTML5', 'CSS3', 'JavaScript(ES6+)', 'React.js'],
+  backend: ['Node.js', 'PHP', 'REST APIs Development', 'Express.js'],
   database: ['MySQL', 'MongoDB'],
+  authentication: ['JWT', 'Session Management', 'Role-Based Access Control','API Integaration'],
   tools: ['Git', 'GitHub', 'VS Code', 'REST APIs']
 };
 

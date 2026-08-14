@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import resumePdf from '../assets/Anish_ojha_Rev.03.pdf';
+import resumePdf from '../assets/Anish_ojha_Rev.04.pdf';
 
 function ResumePage() {
   return (

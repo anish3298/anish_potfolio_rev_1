@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import HeroScene from './HeroScene';
 import profile from '../data/profile';
-import resumePdf from '../assets/Anish_ojha_Rev.03.pdf';
+import resumePdf from '../assets/Anish_ojha_Rev.04.pdf';
 
 function Hero() {
   return (

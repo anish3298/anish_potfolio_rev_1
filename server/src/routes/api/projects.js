@@ -1,6 +1,6 @@
 import express from 'express';
 import { protect } from '../../middleware/auth.js';
-import { getProjects, getProjectBySlug, createProject, updateProject, deleteProject } from '../../controllers/projectController.js';
+import { getProjects, getProjectBySlug, getProjectById, createProject, updateProject, deleteProject } from '../../controllers/projectController.js';
 
 const router = express.Router();
 

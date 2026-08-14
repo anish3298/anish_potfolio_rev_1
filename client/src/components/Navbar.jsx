@@ -28,7 +28,7 @@ function Navbar() {
     <header className={`fixed inset-x-0 top-0 z-50 transition duration-300 ${scrolled ? 'backdrop-blur bg-slate-950/70 shadow-slate-900/50 shadow-sm' : 'bg-transparent'}`}>
       <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
         <Link to="/" className="text-lg font-semibold tracking-[0.25em] text-cyan-300">
-          ANISH.
+          ANISH OJHA.
         </Link>
         <nav className="hidden items-center gap-6 md:flex">
           {navItems.map((item) => (
