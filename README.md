@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anish Kumar Ojha Portfolio
 
 Premium Full Stack Developer portfolio with separate frontend and backend applications.
@@ -54,3 +55,6 @@ Client variables:
 - Admin dashboard with JWT auth
 - Contact form with message storage
 - Dark/light mode, smooth transitions, and responsive UI
+=======
+# anish_potfolio_rev_1
+>>>>>>> 21ac05a528c12b26620a8856f49d4ab12c39e5c7
